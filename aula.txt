@@ -5,5 +5,5 @@ Aqui ficaria o sql de vcs
 
 
 
-
+SELECT * FROM aulas.buy WHERE valor_taxa BETWEEN 1.0 and 55;
 
